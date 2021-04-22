@@ -31,13 +31,13 @@
 <br />
 <br />
 ---
-<details>
-  <summary> GitHub Stats</summary>
+
+  <summary>:zap: GitHub Stats</summary>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laetitia123&show_icons=true&theme=radical)
 
 
-</details>
+
 
 
 
