@@ -32,7 +32,7 @@
 <br />
 ---
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary> GitHub Stats</summary>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laetitia123&show_icons=true&theme=radical)
 
