@@ -12,7 +12,7 @@
 <br />
 <br />
 
-### <summary>:zap:Languages and Tools: </summary>
+### Languages and Tools: 
 <br />
 <br />
 
