@@ -1,11 +1,13 @@
-### Hi there👋, I am Laetitia
+### Hi there👋, I am Laetitia    ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 - 🎤 I am a passonate Web Developer and Frontend developer
 - 🛸 Learning everyday, currently learning to master WordPress, Nodejs,React......
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
-- 📺 Share things I know and learn in my Youtube Channel Take a Peek
 - 📬 How to reach me: Let's get in touch!
 - 🧗 I try to: Go beyond and push the bounds
+
+
 
 
 <!--
@@ -17,3 +19,4 @@
 📺 Share things I know and learn in my Youtube Channel Take a Peek
 📬 How to reach me: Let's get in touch!
 🧗 I try to: Go beyond and push the bounds
+  
