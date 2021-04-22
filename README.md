@@ -38,13 +38,12 @@
 
 
 </details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="laetitia's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?laetitia123=arsentieva" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?laetitia=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
