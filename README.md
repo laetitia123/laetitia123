@@ -32,7 +32,7 @@
 <br />
 ---
 
-  <summary>:zap: GitHub Stats</summary>
+ ### <summary>:zap: GitHub Stats</summary>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laetitia123&show_icons=true&theme=radical)
 
@@ -41,7 +41,7 @@
 
 
 
-  <summary>:zap: Most Used Languages</summary>
+  ### <summary>:zap: Most Used Languages</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laetitia123&layout=compact)](https://github.com/laetitia123/github-readme-stats)
 
