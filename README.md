@@ -5,12 +5,12 @@
 - 🛸 Learning everyday, currently learning to master WordPress, Nodejs,React......
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 📬 How to reach me: Let's get in touch!
+- ✍ You can find my projects here [portfolio]
 - ⚡ Fun fact: I do not give up Easly
 
 
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 <br />
 
@@ -46,6 +46,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laetitia123&layout=compact)](https://github.com/laetitia123/github-readme-stats)
 
 </details>
+
+
+[portfolio]: https://laetitia123.github.io/portfolio2/
 
 
 
