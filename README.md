@@ -40,12 +40,12 @@
 </details>
 
 
-<details>
+
   <summary>:zap: Most Used Languages</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laetitia123&layout=compact)](https://github.com/laetitia123/github-readme-stats)
 
-</details>
+
 
 
 [portfolio]: https://laetitia123.github.io/portfolio2/
