@@ -1,4 +1,4 @@
-### Hi there👋, I am Laetitia , Fullstack Developer, Mentor 
+### Hi there👋, I am Laetitia , Software Developer, Mentor 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 - 🎤 I am a passonate Web Developer and Frontend developer
