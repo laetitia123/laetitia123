@@ -3,7 +3,7 @@
 
 - 🎤 I am a passonate Web Developer and Frontend developer
 - 🛸 Learning everyday, currently learning to master WordPress, Nodejs,React......
-- 🌋 I’m always looking for challenging work oppurtunities ahead.
+- 🌋 I’m always looking for challenging work and oppurtunities ahead.
 - 📬 How to reach me: Let's get in touch!
 - ✍ You can find my projects here [portfolio]
 - ⚡ Fun fact: I do not give up Easly
